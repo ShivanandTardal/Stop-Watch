@@ -1,0 +1,43 @@
+body{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: rgb(39, 52, 52);
+}
+
+#contaniar{
+   color: beige;
+}
+.disit{
+    font-size: 150px;
+    font-weight: bold;
+}
+.text{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#btn_contaniar{
+    text-align: center;
+    margin-top: 40px;
+}
+.btn{
+    padding: 7px 25px;
+    font-size: 25px;
+    margin: 0px 10px;
+    color: antiquewhite;
+    cursor: pointer;
+    border-radius: 12px;
+}
+#start{
+    background-color: rgba(0, 128, 0, 0.9);
+
+}
+#stop{
+    background-color: rgba(150, 54, 54, 0.759);
+}
+#reset{
+    background-color: rgb(103, 103, 241);
+}
